@@ -1,0 +1,8 @@
+C:\Users\Sefika\Desktop\MyCore\bin\Debug\netcoreapp1.1\MyCore.deps.json
+C:\Users\Sefika\Desktop\MyCore\bin\Debug\netcoreapp1.1\MyCore.runtimeconfig.json
+C:\Users\Sefika\Desktop\MyCore\bin\Debug\netcoreapp1.1\MyCore.runtimeconfig.dev.json
+C:\Users\Sefika\Desktop\MyCore\bin\Debug\netcoreapp1.1\MyCore.dll
+C:\Users\Sefika\Desktop\MyCore\bin\Debug\netcoreapp1.1\MyCore.pdb
+C:\Users\Sefika\Desktop\MyCore\obj\Debug\netcoreapp1.1\MyCore.AssemblyInfo.cs
+C:\Users\Sefika\Desktop\MyCore\obj\Debug\netcoreapp1.1\MyCore.dll
+C:\Users\Sefika\Desktop\MyCore\obj\Debug\netcoreapp1.1\MyCore.pdb
